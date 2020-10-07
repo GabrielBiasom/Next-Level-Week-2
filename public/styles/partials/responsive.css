@@ -1,0 +1,22 @@
+@media (min-width: 700px){
+    #page-study #container{
+        max-width: 100vw;
+    }
+
+    .teacher-item header,
+    .teacher-item footer{
+        padding: 32px;
+    }
+}
+
+@media (max-width:699px){
+    :root{
+        font-size: 40%;
+    }
+}
+
+@media (min-width: 700px){
+    :root{
+        font-size: 62.5%;
+    }
+}
